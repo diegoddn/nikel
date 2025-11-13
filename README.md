@@ -29,15 +29,28 @@ Este projeto foi criado para praticar habilidades em **desenvolvimento front-end
 
 ## 📂 Estrutura do Projeto  
 
-/
+NIKEL/
+├── .vscode/ # Configurações do VS Code (opcional)
+├── public/
+│ └── assets/
+│ └── images/ # Imagens utilizadas no projeto
+│ ├── codai-logo.png
+│ ├── coins-small.png
+│ ├── coins.png
+│ ├── growdev-logo.png
+│ ├── nikel-logo.png
+│ ├── nikel-small-logo.png
+│ └── pocket.png
 ├── css/
-│ └── style.css
+│ └── styles.css # Estilos globais do projeto
 ├── js/
-│ └── script.js
-├── img/
-│ └── (imagens do projeto)
-├── index.html
-└── README.md
+│ ├── home.js # Script da página inicial
+│ ├── index.js # Script principal (login ou dashboard)
+│ └── transactions.js # Lógica das transações financeiras
+├── home.html # Página inicial do sistema
+├── index.html # Página principal (login)
+├── transactions.html # Página de transações
+└── README.md # Documentação do projeto---
 
 ---
 
@@ -76,7 +89,7 @@ Interesse em evoluir e aprimorar continuamente como desenvolvedor
 
 ---
 
-**Links importantes**
+🔗 **Links Importantes**
 
 📫 Contato:  [Meu email dhiego.natividade@hotmail.com](dhiego.natividade@hotmail.com)
 ]
