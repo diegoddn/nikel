@@ -96,7 +96,7 @@ Interesse em evoluir e aprimorar continuamente como desenvolvedor
 ## 🔗 Links Importantes
 
 📫 Contato:  [Meu email dhiego.natividade@hotmail.com](dhiego.natividade@hotmail.com)
-]
+
 💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/diego-natividade-dev/)
 
 🌐 Portfólio: [Meu GitHub](https://github.com/diegoddn)
