@@ -13,7 +13,6 @@ Este projeto foi criado para praticar habilidades em **desenvolvimento front-end
 - **JavaScript (ES6+)** → interatividade e manipulação dinâmica da DOM  
 - **Bootstrap** → componentes e responsividade  
 - **Git e GitHub** → versionamento e controle de código  
-- **Vercel** → deploy da aplicação  
 
 ---
 
@@ -32,7 +31,6 @@ Este projeto foi criado para praticar habilidades em **desenvolvimento front-end
 ```
 
 NIKEL/
-├── .vscode/ # Configurações do VS Code (opcional)
 ├── public/
 │ └── assets/
 │ └── images/ # Imagens utilizadas no projeto
@@ -71,6 +69,8 @@ NIKEL/
 ---
 
 ## 🌐 Deploy
+
+- **Vercel** → deploy da aplicação
 
 Acesse o projeto online:
 👉 [Nikel - Visualizar Deploy](https://nikel-lovat.vercel.app/)
