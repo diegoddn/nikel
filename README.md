@@ -27,7 +27,9 @@ Este projeto foi criado para praticar habilidades em **desenvolvimento front-end
 
 ---
 
-## 📂 Estrutura do Projeto  
+## 📂 Estrutura do Projeto
+
+```
 
 NIKEL/
 ├── .vscode/ # Configurações do VS Code (opcional)
@@ -50,7 +52,9 @@ NIKEL/
 ├── home.html # Página inicial do sistema
 ├── index.html # Página principal (login)
 ├── transactions.html # Página de transações
-└── README.md # Documentação do projeto---
+└── README.md # Documentação do projeto
+
+```
 
 ---
 
@@ -66,14 +70,14 @@ NIKEL/
 
 ---
 
-🌐 **Deploy**
+## 🌐 Deploy
 
 Acesse o projeto online:
 👉 [Nikel - Visualizar Deploy](https://nikel-lovat.vercel.app/)
 
 ---
 
-📈 **Por que este projeto é relevante?**
+## 📈 Por que este projeto é relevante?
 
 Este projeto demonstra:
 
@@ -89,7 +93,7 @@ Interesse em evoluir e aprimorar continuamente como desenvolvedor
 
 ---
 
-🔗 **Links Importantes**
+## 🔗 Links Importantes
 
 📫 Contato:  [Meu email dhiego.natividade@hotmail.com](dhiego.natividade@hotmail.com)
 ]
@@ -99,10 +103,10 @@ Interesse em evoluir e aprimorar continuamente como desenvolvedor
 
 ---
 
-📝 Licença
+## 📝 Licença
 
 Este projeto está licenciado sob a MIT License — sinta-se à vontade para usar, estudar e modificar.
 
 ---
 
-⭐ Se este projeto te inspirou, não esqueça de deixar uma star no repositório!
+## ⭐ Se este projeto te inspirou, não esqueça de deixar uma star no repositório!
