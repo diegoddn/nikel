@@ -2,7 +2,7 @@
 
 ## 🎯 Descrição  
 O **Nikel** é uma aplicação web desenvolvida no curso Codaí da Growdev com **HTML, CSS e JavaScript**, com o objetivo de gerenciar entradas e saídas financeiras de forma simples e intuitiva.  
-Este projeto foi criado para praticar habilidades em **desenvolvimento front-end**, organização de código e boas práticas, sendo ideal para portfólio.
+Este projeto foi criado para praticar habilidades em **desenvolvimento front-end**, organização de código e boas práticas.
 
 ---
 
