@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "aeschli.vscode-css-formatter",
+    "esbenp.prettier-vscode",
+    "dzhavat.bracket-pair-toggler"
+  ]
+}
