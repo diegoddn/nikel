@@ -33,14 +33,14 @@ Este projeto foi criado para praticar habilidades em **desenvolvimento front-end
 NIKEL/
 ├── public/
 │ └── assets/
-│ └── images/ # Imagens utilizadas no projeto
-│ ├── codai-logo.png
-│ ├── coins-small.png
-│ ├── coins.png
-│ ├── growdev-logo.png
-│ ├── nikel-logo.png
-│ ├── nikel-small-logo.png
-│ └── pocket.png
+│    └── images/ # Imagens utilizadas no projeto
+│       ├── codai-logo.png
+│       ├── coins-small.png
+│       ├── coins.png
+│       ├── growdev-logo.png
+│       ├── nikel-logo.png
+│       ├── nikel-small-logo.png
+│       └── pocket.png
 ├── css/
 │ └── styles.css # Estilos globais do projeto
 ├── js/
