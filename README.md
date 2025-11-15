@@ -1,4 +1,4 @@
-# 💰 Nikel
+## 💰 Nikel
 
 ## 🎯 Descrição  
 O **Nikel** é uma aplicação web desenvolvida no curso Codaí da Growdev com **HTML, CSS e JavaScript**, com o objetivo de gerenciar entradas e saídas financeiras de forma simples e intuitiva.  
@@ -97,9 +97,9 @@ Interesse em evoluir e aprimorar continuamente como desenvolvedor
 
 📫 Contato:  [dhiego.natividade@hotmail.com](dhiego.natividade@hotmail.com)
 
-💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/diego-natividade-dev/)
+💼 LinkedIn: [https://www.linkedin.com/in/diego-natividade-dev/](https://www.linkedin.com/in/diego-natividade-dev/)
 
-🌐 Portfólio: [Meu GitHub](https://github.com/diegoddn)
+🌐 Portfólio/GitHub: [https://github.com/diegoddn](https://github.com/diegoddn)
 
 ---
 
