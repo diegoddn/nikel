@@ -62,8 +62,10 @@ NIKEL/
    ```bash
    git clone https://github.com/diegoddn/nikel.git
 2. **Acesse a pasta do projeto:**
+   ```
    cd nikel
-3. **Abra o arquivo** index.html diretamente no navegador
+   ```
+4. **Abra o arquivo** index.html diretamente no navegador
 (não é necessário servidor ou instalação de dependências)
 
 ---
