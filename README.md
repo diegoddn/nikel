@@ -105,10 +105,4 @@ Interesse em evoluir e aprimorar continuamente como desenvolvedor
 
 ---
 
-## 📝 Licença
-
-Este projeto está licenciado sob a MIT License — sinta-se à vontade para usar, estudar e modificar.
-
----
-
 ## ⭐ Se este projeto te inspirou, não esqueça de deixar uma star no repositório!
